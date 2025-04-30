@@ -1,6 +1,7 @@
 resources:
-  - nginx/nginx-depl.yaml
-  - nginx/nginx-service.yaml
+  - api
+#  - cache
+  - db
 
 commonLabels:
   company: Vitali
