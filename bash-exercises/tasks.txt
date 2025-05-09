@@ -1,5 +1,4 @@
 🟢 Block 1 — Conditions (if)
-📌 If the variable NAME is equal to "admin", print "Welcome, admin", otherwise print "Access denied".
 📌 Compare two strings for equality and print "equal" or "not equal".
 📌 Check if the file /etc/passwd exists. If it does, print "OK".
 📌 Write an if-else-if structure:
@@ -8,7 +7,6 @@ if number = 0 → "Zero"
 if number > 0 → "Positive"
 
 🟡 Block 2 — for loop
-🔁 Print all numbers from 1 to 10.
 🔁 Loop through an array of names ("John", "Alice", "Bob") and greet each one.
 🔁 Create a loop that prints the multiplication table for 5.
 🔁 For all .txt files in the current folder, print their names.
