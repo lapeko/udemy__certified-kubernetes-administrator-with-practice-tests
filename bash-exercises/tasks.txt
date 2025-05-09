@@ -13,7 +13,6 @@ if number > 0 → "Positive"
 🔁 Print only even numbers from 2 to 20.
 
 🔵 Block 3 — while loop
-⏳ Write a loop that counts from 1 to 5 with a 1-second delay between each number.
 ⏳ Write a script that keeps asking “Enter exit to quit” and only stops if the user types exit.
 ⏳ Use a while loop to calculate the factorial of n=5.
 ⏳ Ask the user to input a number, and continue until the number is greater than 10.
