@@ -1,5 +1,4 @@
 🟢 Block 1 — Conditions (if)
-📌 Write a script that takes a number and prints whether it's even or odd.
 📌 If the variable NAME is equal to "admin", print "Welcome, admin", otherwise print "Access denied".
 📌 Compare two strings for equality and print "equal" or "not equal".
 📌 Check if the file /etc/passwd exists. If it does, print "OK".
