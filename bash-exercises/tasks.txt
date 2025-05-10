@@ -7,7 +7,6 @@ if number = 0 → "Zero"
 if number > 0 → "Positive"
 
 🟡 Block 2 — for loop
-🔁 Loop through an array of names ("John", "Alice", "Bob") and greet each one.
 🔁 Create a loop that prints the multiplication table for 5.
 🔁 For all .txt files in the current folder, print their names.
 🔁 Print only even numbers from 2 to 20.
