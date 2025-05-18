@@ -1,6 +1,9 @@
 resources:
   - ../../base
 
+components:
+  - ../../components/log
+
 patches:
 #  - path: nginx-depl.yaml
   - target:

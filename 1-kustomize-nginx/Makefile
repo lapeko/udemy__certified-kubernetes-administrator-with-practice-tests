@@ -1,4 +1,4 @@
-.PHONY: build delete
+.PHONY: build build-prod delete delete-prod
 
 PROJECT_PATH=./k8s
 DEV=dev
