@@ -3,8 +3,9 @@ resources:
 #  - cache
   - db
 
-commonLabels:
-  company: Vitali
+labels:
+  - pairs:
+      company: Vitali
 
 patches:
   - target:
