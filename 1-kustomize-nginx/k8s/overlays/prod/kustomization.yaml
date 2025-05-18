@@ -1,0 +1,18 @@
+resources:
+  - ../../base
+
+patches:
+#  - path: nginx-depl.yaml
+  - target:
+      kind: Deployment
+      name: nginx-depl
+    patch: |-
+      - op: replace
+        path: /spec/template/spec/containers/0
+        value:
+          image: busybox
+          name: busybox
+        
+labels:
+  - pairs:
+      env: prod

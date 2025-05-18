@@ -1,0 +1,9 @@
+resources:
+  - ../../base
+
+patches:
+  - path: nginx-depl.yaml
+
+labels:
+  - pairs:
+      env: dev

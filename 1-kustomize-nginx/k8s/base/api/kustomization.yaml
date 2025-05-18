@@ -3,4 +3,4 @@ resources:
   - nginx-service.yaml
 
 patches:
-  - path: ./remove-label-patch.yaml
+  - path: remove-label-patch.yaml
